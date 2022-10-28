@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Blandit aliquam etiam erat velit scelerisque in dictum non consectetur. Metus dictum at tempor commodo ullamcorper a. Mauris cursus mattis molestie a iaculis at erat pellentesque adipiscing. Dignissim suspendisse in est ante. Feugiat in fermentum posuere urna nec tincidunt praesent. Volutpat ac tincidunt vitae semper quis. In egestas erat imperdiet sed euismod nisi porta lorem. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. Auctor eu augue ut lectus arcu bibendum at varius. Purus sit amet volutpat consequat mauris nunc congue nisi vitae. Ut pharetra sit amet aliquam id diam. Ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit ut aliquam purus sit. Ipsum nunc aliquet bibendum enim facilisis. In egestas erat imperdiet ",
+      "tags": ["webdav", "coding", "news"]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 css tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Blandit aliquam etiam erat velit scelerisque in dictum non consectetur. Metus dictum at tempor commodo ullamcorper a. Mauris cursus mattis molestie a iaculis at erat pellentesque adipiscing. Dignissim suspendisse in est ante. Feugiat in fermentum posuere urna nec tincidunt praesent. Volutpat ac tincidunt vitae semper quis. In egestas erat imperdiet sed euismod nisi porta lorem. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. Auctor eu augue ut lectus arcu bibendum at varius. Purus sit amet volutpat consequat mauris nunc congue nisi vitae. Ut pharetra sit amet aliquam id diam. Ipsum dolor sit amet consectetur adipiscing elit. Sit amet consectetur adipiscing elit ut aliquam purus sit. Ipsum nunc aliquet bibendum enim facilisis. In egestas erat imperdiet ",
+      "tags": ["css", "webdev", "coding"]
+    }
+  ]
+}
